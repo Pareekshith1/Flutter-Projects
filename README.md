@@ -1,21 +1,21 @@
-# SprinterStop
+# SprinterStop 🛍️👟
 
 ---
 
 ## Flutter Project 1
 
-SprinterStop is a Flutter project showcasing a fictional travel app's UI. It includes features like displaying multiple images in a container with custom border radius and fitting an image to the shape of a container.
+SprinterStop is an online shoe store app featuring a variety of shoe brands. It showcases different shoe collections and provides a seamless shopping experience for users.
 
 ### Key Features
-- Customized container with unique border radius
-- Fit image to container's shape using ClipRRect
+- Browse and shop for shoes from popular brands
+- View detailed information and images for each shoe
+- Add shoes to your cart for easy purchasing
 
 ### Usage
 1. Ensure Flutter is installed on your machine.
 2. Clone this repository.
 3. Run the app using `flutter run`.
 
-Feel free to explore and customize this project for your own use!
+Happy shoe shopping! 👠👞👢
 
 ---
-
